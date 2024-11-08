@@ -1,0 +1,43 @@
+# Python cache files
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment folder
+# This assumes the virtual environment folder is in your project directory
+venv/
+virtual/
+.env/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Environment and configuration files
+.env
+*.env
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints
+
+# VSCode and other IDE configuration files (optional)
+.vscode/
+.idea/
+
+# Python package files
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
